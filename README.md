@@ -72,6 +72,6 @@ Feel free to fork the repository, make changes, and submit pull requests. Contri
 
 ## 📑 **License**
 
-This repository is licensed under the MIT License. See [LICENSE](https://github.com/forampatel208/Mastering_C/blob/main/LICENSE) for more information.
+This repository is licensed under the MIT License. See [LICENSE](https://github.com/pansuriya Foram/Mastering_C/blob/main/LICENSE) for more information.
 
 ---
